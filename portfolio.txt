@@ -1,0 +1,224 @@
+# Nihar Ranjan Nayak
+
+### Computer Science & Engineering (AI/ML) Student | Aspiring AI/ML Developer
+
+I am a B.Tech Computer Science and Engineering student specializing in Artificial Intelligence and Machine Learning. I am currently building my foundations in programming, machine learning, databases, algorithms, and core computer science.
+
+I learn primarily by building projects and experimenting with technology. My current interests include Artificial Intelligence, Machine Learning, conversational AI, automation, and practical software development.
+
+---
+
+## ABOUT ME
+
+I am a student who is focused on turning theoretical knowledge into practical skills.
+
+My learning journey currently revolves around three areas:
+
+**1. Building strong fundamentals**
+I am strengthening my understanding of C, Python, SQL, DBMS, Computer Organization, Statistics, Algorithms, and Machine Learning.
+
+**2. Learning by building**
+Instead of only following tutorials, I try to apply what I learn through projects involving AI, machine learning, automation, and software.
+
+**3. Becoming a better problem solver**
+My long-term goal is to develop the ability to take a problem, understand it properly, design a solution, build it, test it, and communicate the result clearly.
+
+---
+
+## SKILLS
+
+### Programming
+
+* C
+* Python
+* SQL
+
+### AI & Machine Learning
+
+* Machine Learning fundamentals
+* Classification
+* Naive Bayes
+* Model evaluation
+* Natural Language Processing fundamentals
+* Conversational AI concepts
+
+### Data & Libraries
+
+* NumPy
+* Pandas
+* Scikit-learn
+
+### Computer Science
+
+* Data Structures & Algorithms fundamentals
+* Database Management Systems
+* SQL & Database Normalization
+* Computer Organization & Architecture
+* Statistics fundamentals
+
+### Tools & Platforms
+
+* Git / Git Bash
+* VS Code
+* Canva
+* Make.com
+* PromptLayer
+
+### Soft Skills
+
+* Problem solving
+* Self-learning
+* Technical communication
+* Presentation
+* Project collaboration
+
+---
+
+# PROJECTS
+
+## 01 — Spam Message Classifier
+
+### Machine Learning | Python | Scikit-learn
+
+A machine-learning project designed to classify messages as spam or legitimate.
+
+The project involved implementing and evaluating a Naive Bayes classification approach and measuring its performance using standard machine-learning metrics.
+
+**Results:**
+
+* Accuracy: **98.57%**
+* Precision: **97.16%**
+* Recall: **91.95%**
+* F1 Score: **94.48%**
+
+**Technologies:** Python, NumPy, Pandas, Scikit-learn
+
+---
+
+## 02 — TruthLens AI
+
+### AI/ML | Deepfake Detection | Explainable AI
+
+**TruthLens AI — Detect. Explain. Verify.**
+
+A project concept focused on detecting manipulated or deepfake media while making the results easier for users to understand.
+
+The project was developed in a learnathon/hackathon environment with an emphasis on trustworthy and explainable AI.
+
+**Focus areas:**
+
+* Deepfake detection
+* AI/ML
+* Media verification
+* Explainable results
+* Trustworthy AI
+
+---
+
+## 03 — Emotion-Aware Conversational AI
+
+### Conversational AI | NLP | Psychological Safety
+
+A conversational AI project concept designed to respond more appropriately to a user's emotional context.
+
+The project explored:
+
+* Emotion-aware conversations
+* Prompt design
+* CBT-informed conversational structure
+* Psychological safety
+* Consent-based handoff to a human counselor
+
+The goal was to explore how conversational AI can provide more context-aware and responsible interactions.
+
+---
+
+# EDUCATION
+
+## B.Tech — Computer Science & Engineering (AI/ML)
+
+**Currently pursuing — 3rd Semester**
+
+### Current areas of study
+
+* Programming
+* Artificial Intelligence
+* Machine Learning
+* Database Management Systems
+* Computer Organization & Architecture
+* Applied Statistics
+* Cloud Computing
+* Algorithms & Data Structures
+
+---
+
+# CURRENT LEARNING JOURNEY
+
+I am currently focused on progressing from **basic programming knowledge toward practical software and AI/ML development**.
+
+My priorities are:
+
+**Programming → Data Structures & Algorithms → Machine Learning → Projects → Deployment**
+
+I am particularly interested in understanding the fundamentals behind the tools I use rather than treating libraries and AI models as black boxes.
+
+---
+
+# WHAT I'M INTERESTED IN
+
+* Artificial Intelligence
+* Machine Learning
+* Natural Language Processing
+* Conversational AI
+* Automation
+* AI-powered applications
+* Software development
+* Problem solving
+
+---
+
+# MY APPROACH
+
+### Learn → Build → Test → Understand → Improve
+
+I believe projects should be more than something to put on a resume.
+
+When I build something, I want to understand:
+
+* Why does it work?
+* Where does it fail?
+* How can it be evaluated?
+* What could be improved?
+* What did I actually learn from building it?
+
+My current objective is to develop depth gradually rather than trying to learn everything at once.
+
+---
+
+# ACHIEVEMENTS & ACTIVITIES
+
+* Participated in AI/ML-focused learnathon and hackathon projects.
+* Built and evaluated a machine-learning spam classifier.
+* Developed AI project concepts and technical presentations.
+* Worked with AI development and automation tools.
+* Continuously building practical programming and computer science skills.
+
+---
+
+# FUTURE GOALS
+
+My short-term goal is to become technically strong in programming, data structures, machine learning, and software development.
+
+My longer-term goal is to work on real-world AI systems and develop the ability to independently take an idea from **problem definition → design → implementation → evaluation → deployment**.
+
+---
+
+# CONTACT
+
+**Email:** [unknown2006103@gmail.com]
+
+**GitHub:** [unknown]
+
+**LinkedIn:** [unknown2006]
+
+**Location:** India
